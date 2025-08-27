@@ -15,23 +15,23 @@ Party Pantry is a web application that allows users to keep track and update cur
 
 Here you can sign up and create an account to start using Party Pantry!
 
-<img src="images/signup-page.pdf" alt="signup page" width="800">
+<img src="images/signup-page.png" alt="signup page" width="800">
 
 ### Sign in Page
 
 Here you can sign in to your Party Pantry account.
 
-<img src="images/signin-page.pdf" alt="signup page" width="800">
+<img src="images/signin-page.png" alt="signup page" width="800">
 
 ### 'My Kitchen' Page
 
 Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where you can see an overview of your kitchen - you will see all of your storage spaces and items.
 
-<img src="images/my-kitchen-page.pdf" alt="signup page" width="800">
+<img src="images/my-kitchen-page.png" alt="signup page" width="800">
 
-<img src="images/add-storage-space-page.pdf" alt="signup page" width="800">
+<img src="images/add-storage-space-page.png" alt="signup page" width="800">
 
-<img src="images/add-item-page.pdf" alt="signup page" width="800">
+<img src="images/add-item-page.png" alt="signup page" width="800">
 
 ### Shopping List
 
