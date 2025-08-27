@@ -1,3 +1,12 @@
-title: Pantry Party
+title: Team Party Pantry Application Page
+description: Team Party Pantry's Application Page
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-cayman
 github:
+  is_project_page: true
   repository_url: https://pantry-party.github.io/
+  base_url: https://github.com/party-pantry
+gems:
+  - jekyll-mentions
+  
