@@ -37,7 +37,7 @@ Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/shopping-list-page.pdf" alt="signup page" width="800">
+<img src="images/shopping-list-page.png" alt="signup page" width="800">
 
 ## Team Contract
 
