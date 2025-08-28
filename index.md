@@ -11,10 +11,11 @@ layout: default
 
 ## Table of Contents 
 - [Overview](#overview)
-- [User Guide](#user-guide-/-page-mockups)
+- [User Guide](#user-guide--page-mockups)
 * [Development History](#development-history)
-  * [Milestone 1](#milestone-1-identifying-basic-user-needs--mockup-page-development)
+  * [Milestone 1](#milestone-1-identifying-basic-user-needs-user-stories--mockup-page-development)
   <!-- * [Milestone 2](#milestone-2) -->
+  
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
 
