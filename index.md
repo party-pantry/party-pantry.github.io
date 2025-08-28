@@ -17,8 +17,10 @@ layout: default
   <!-- * [Milestone 2](#milestone-2) -->
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
-<!-- 
-* [Goals](#goals-of-the-app)
+
+
+
+<!-- * [Goals](#goals-of-the-app)
 * [Application Design](#application-design)
 * [Data Model](#data-model)
 * [Flowchart](#application-flowchart) 
