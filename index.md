@@ -1,17 +1,43 @@
+---
+layout: default
+---
+
 <!-- -->
+
+# Party Pantry
+
+[View our organization](https://github.com/party-pantry)
+
 
 ## Table of Contents 
 - [Overview](#overview)
+<!-- 
+* [Goals](#goals-of-the-app)
+* [Application Design](#application-design)
+  * [Data Model](#data-model)
+  * [Flowchart](#application-flowchart) 
+* [Developer Guide](#developer-guide)
+  * [Deployment](#deployment)
+  * [Continuous Integration](#continuous-integration)
+  * [Download & Installation](#installation)
+-->
 - [User Guide](#user-guide)
+* [Development History](#development-history)
+  * [Milestone 1](#milestone-1-identifying-basic-user-needs--mockup-page-development)
+  <!-- * [Milestone 2](#milestone-2) -->
 - [Team Contract](#team-contract)
+- [Team Members](#team-members)
+
 
 ## Overview
 
-Party Pantry is a web application that allows users to keep track and update current items in their kitchen. Party Pantry allows users to add 'Storage Spaces', where they can then add any corresponding items.
+Party Pantry is a web application that serves as an inventory management system of one's pantry in multiple locations (i.e. multiple homes containing one or more freezers, refrigerators, spice racks, etc.) The app allows users to keep track and update current items in their kitchen. Party Pantry allows users to add 'Storage Spaces', where they can then add any corresponding items.
 
-## User Guide
+## User Guide / Page Mockups
 
-### Sign up Page
+This section provides a walkthrough of the Party Pantry web app including its user interface and its capabilities.
+
+### Landing / Sign up Page
 
 Here you can sign up and create an account to start using Party Pantry!
 
@@ -39,7 +65,149 @@ Here you can see a generated shopping list - provided are all the items you are 
 
 <img src="images/shopping-list-page.png" alt="signup page" width="800">
 
+
+## Development History
+
+The following describes the process of building the app from the design process to code implementation and deployment. Our progress is as follows:
+
+### Milestone 1: Identifying Basic User Needs (User Stories) & Mockup Page Development
+
+The goal of Milestone 1 was to create a work flow for the app to identify its main features to solve the problem of keeping track of supplies and managing ingredient usage. We focused on creating a mockup of the app's UI.
+
+Milestone 1 was managed using [Party Pantry GitHub Project Board M1](https://github.com/orgs/party-pantry/projects/3)
+
+<img src="images/M1.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
+<!-- 
+### Milestone 2: 
+### Milestone 3: 
+### Milestone 4: 
+### Milestone 5: 
+### Milestone 6: 
+### Milestone 7: 
+### Milestone 8:  -->
+
+
 ## Team Contract
 
 [Link to Team Contract](https://docs.google.com/document/d/1KSa26cDXpafRdDiPp4icix-SGD2Os3aREFr4hk9QkaE/edit?usp=sharing) (will open in Google Docs).
+
+
+## Team Members
+
+Party Pantry is designed and developed by:
+* [**Dhaniel Bolosan**](https://github.com/dhanielbolosan) || [View Portfolio](https://dhanielbolosan.github.io/)
+* [**Yongsheng He**](https://github.com/heyongsh1) || [View Portfolio](https://heyongsh1.github.io/)
+* [**Victor Hoang**](https://github.com/hoangv11) || [View Portfolio](https://hoangv11.github.io/)
+* [**Abigail Lorber**](https://github.com/abigailLorber) || [View Portfolio](https://github.com/abigailLorber)
+* [**Phoung Pham**](https://github.com/phuong808) || [View Portfolio](https://phuong808.github.io/)
+* [**Jaren Pinera**](https://github.com/jpinera) || [View Portfolio](https://jpinera.github.io/)
+* [**Dat Truong**](https://github.com/DatTruong606) || [View Portfolio](https://dattruong606.github.io/dattruong.github.io/)
+
+
+
+
+
+
+<!-- 
+## Goals of the app
+
+Our web app aims to provide the following features:
+
+<li>Account registration</li>
+<li>Reusable container ownership tracking</li>
+<li>Ordering containers from vendors</li>
+<li>Distributing containers to vendors from organization</li>
+<li>Collateral payments if a container is not returned</li>
+<li>QR code scanning and generation</li>
+<li>Tracking of returned and non-returned containers</li>
+
+
+## Application Design
+
+The following describes the design process for our app:
+
+### Data model
+
+The data model for Sustainer consists of two "primary" collections (Accounts and Containers), along with one "join" Collections (ContainersByRole) and one supplemental collection (Credit Card). 
+
+We decided to present the model in this way to easily keep track of the ownership for each container. Here are some reasons for our design:
+* The _role_ field has possibilities of user, vendor, or admin, which will indicate the navigation routes of UI pages upon log in. It will also be used to transfer ownership of a container from an admin (organization worker) to a vendor to a user (customer at the event). 
+* The CreditCard collection allows us to link a payment method as collateral for the containers that are ordered. In the scenario where they don't return the containers after the event is over, they will be charged accordingly. 
+* Multiple containers can be assigned to a single user. The ContainersByRole join collection help us to easily filter the number of containers by a specific user or owner when an admin/moderator wants to check which containers are available and returned. 
+
+Here is an example schematic of the database:
+
+<img src="doc/sustainer-DB-diagram.png" alt="" style="padding-top: 5px; padding-bottom: 5px">
+
+The fields labeled **PK** (Email for Accounts) indicate that this is a unique value so that they can be used as a primary key for that collection. This constraint is enforced in the schema definition associated with that collection. The label **FK** represents the foreign keys that are used from other collections.
+
+### Application Flowchart
+
+<img src="doc/sustainer-flow-chart.png" alt="" style="padding-top: 5px; padding-bottom: 5px"> -->
+
+
+<!-- ## Developer Guide
+
+### Deployment
+
+You can view our deployed app [**here**](https://sustainer.online): [https://sustainer.online](https://sustainer.online)
+
+The following section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
+
+<br>
+
+### Continuous Integration
+
+[![ci-sustainer](https://github.com/sus-tainer/sustainer/actions/workflows/ci.yml/badge.svg)](https://github.com/sus-tainer/sustainer/actions/workflows/ci.yml)
+
+Sustainer uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/sus-tainer/sustainer/actions](https://github.com/sus-tainer/sustainer/actions).
+
+The workflow definition file is quite simple and is located at
+[.github/workflows/ci.yml](https://github.com/sus-tainer/sustainer/blob/main/.github/workflows/ci.yml).
+
+<br>
+
+### Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, visit the [Sustainer application GitHub page](https://github.com/sus-tainer/sustainer), and click the "Use this template" button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo.  However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the _sustainer/app_ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the system with:
+
+```
+$ meteor npm run start
+```
+
+If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
+
+
+<br> -->
+
+
+
+<!-- ### Milestone 2: Basic Skeleton of All Pages, QR Code Functionality
+
+The goal of Milestone 2 was to create all the basic components of the app. For backend, this included implementing all the relational databases properly and ensuring that all functionalities for QR code reading and scanning work properly. For frontend, we focused on creating simple layouts for all the webpages and check that all web pages and nav links in the menu bar navigate correctly based on the role of an account user.
+
+Milestone 2 was managed using [Sustainer GitHub Project Board M2](https://github.com/orgs/sus-tainer/projects/2/views/2)
+
+<img src="doc/M2.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
+### Milestone 3: App Cleanup
+
+The goal of Milestone 3 was to focus on cleaning up the code base, updating UI format, and container ownership transfer. We also focused on implementing the payment portal and payment management. QR code scanning was refined for both the vendor and admin users. 
+
+Milestone 3 was managed using [Sustainer GitHub Project Board M3](https://github.com/orgs/sus-tainer/projects/4/views/2)
+
+<img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
+-->
 
