@@ -11,21 +11,21 @@ layout: default
 
 ## Table of Contents 
 - [Overview](#overview)
-<!-- 
-* [Goals](#goals-of-the-app)
-* [Application Design](#application-design)
-  * [Data Model](#data-model)
-  * [Flowchart](#application-flowchart) 
-* [Developer Guide](#developer-guide)
-  * [Deployment](#deployment)
-  * [Continuous Integration](#continuous-integration)
-  * [Download & Installation](#installation) -->
-- [User Guide](#user-guide)
+- [User Guide](#user-guide-/-page-mockups)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1-identifying-basic-user-needs--mockup-page-development)
   <!-- * [Milestone 2](#milestone-2) -->
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
+<!-- 
+* [Goals](#goals-of-the-app)
+* [Application Design](#application-design)
+* [Data Model](#data-model)
+* [Flowchart](#application-flowchart) 
+* [Developer Guide](#developer-guide)
+* [Deployment](#deployment)
+* [Continuous Integration](#continuous-integration)
+* [Download & Installation](#installation) -->
 
 
 ## Overview
