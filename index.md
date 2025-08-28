@@ -19,8 +19,7 @@ layout: default
 * [Developer Guide](#developer-guide)
   * [Deployment](#deployment)
   * [Continuous Integration](#continuous-integration)
-  * [Download & Installation](#installation)
--->
+  * [Download & Installation](#installation) -->
 - [User Guide](#user-guide)
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1-identifying-basic-user-needs--mockup-page-development)
