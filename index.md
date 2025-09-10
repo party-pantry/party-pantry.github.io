@@ -16,7 +16,7 @@ layout: default
   * [Milestone 1](#milestone-1-identifying-basic-user-needs-user-stories--mockup-page-development)
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
   <!-- * [Milestone 3](#milestone-3) -->
-  
+
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
 
@@ -72,7 +72,7 @@ Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/mockup/shopping-list-page.png" alt="signup page" width="800">
+<img src="images/M1/M1-ShoppingList.png" alt="signup page" width="800">
 
 ### Recipes Page
 
@@ -160,7 +160,7 @@ We decided to present the model in this way to easily keep track of the ownershi
 
 Here is an example schematic of the database:
 
-<img src="doc/sustainer-DB-diagram.png" alt="" style="padding-top: 5px; padding-bottom: 5px">
+<img src="images/.png" alt="" style="padding-top: 5px; padding-bottom: 5px">
 
 The fields labeled **PK** (Email for Accounts) indicate that this is a unique value so that they can be used as a primary key for that collection. This constraint is enforced in the schema definition associated with that collection. The label **FK** represents the foreign keys that are used from other collections.
 
