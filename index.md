@@ -16,7 +16,7 @@ layout: default
   * [Milestone 1](#milestone-1-identifying-basic-user-needs-user-stories--mockup-page-development)
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
   <!-- * [Milestone 3](#milestone-3) -->
-
+- [Acceptance Testing](#acceptance-testing)
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
 
@@ -108,6 +108,16 @@ Milestone 2 was managed using [Party Pantry GitHub Project Board M2](https://git
 ### Milestone 6: 
 ### Milestone 7: 
 ### Milestone 8:  -->
+
+## Acceptance Testing
+
+The following are screenshots of our basic acceptance testing for Pantry Pantry. We used Playwright to run our acceptance tests:
+
+<img src="images/acc-tests/test-1.png" alt="">
+<img src="images/acc-tests/test-2.png" alt="" >
+<img src="images/acc-tests/test-3.png" alt="" >
+<img src="images/acc-tests/test-4.png" alt="" >
+<img src="images/acc-tests/test-5.png" alt="" >
 
 
 ## Team Contract
