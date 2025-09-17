@@ -129,6 +129,8 @@ The following are screenshots of our basic acceptance testing for Pantry Pantry.
 
 Party Pantry is designed and developed by:
 * [**Dhaniel Bolosan**](https://github.com/dhanielbolosan) || [View Portfolio](https://dhanielbolosan.github.io/)
+* [**Lucas Corriero**](https://github.com/lucascorriero) || [View Portfolio](https://lucascorriero.github.io/)
+* [**Jerome Gavin Demesillo**](https://github.com/JeromeDemesillo) || [View Portfolio](https://jeromedemesillo.github.io/)
 * [**Yongsheng He**](https://github.com/heyongsh1) || [View Portfolio](https://heyongsh1.github.io/)
 * [**Victor Hoang**](https://github.com/hoangv11) || [View Portfolio](https://hoangv11.github.io/)
 * [**Abigail Lorber**](https://github.com/abigailLorber) || [View Portfolio](https://github.com/abigailLorber)
