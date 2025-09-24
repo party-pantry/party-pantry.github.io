@@ -93,7 +93,7 @@ The goal of Milestone 1 was to create a work flow for the app to identify its ma
 
 Milestone 1 was managed using [Party Pantry GitHub Project Board M1](https://github.com/orgs/party-pantry/projects/3/views/1)
 
-<img src="images/M1-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M1/board/M1-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 ### Milestone 2: Basic Skeleton of All Pages, Finalize Database Model, User Authentication
 
@@ -101,7 +101,7 @@ The goal of Milestone 2 is to create all the basic components of the app. For ba
 
 Milestone 2 was managed using [Party Pantry GitHub Project Board M2](https://github.com/orgs/party-pantry/projects/5/views/2)
 
-<img src="images/M2-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M2/board/M2-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 
 ### Milestone 3: TBD
@@ -140,6 +140,9 @@ Party Pantry uses [GitHub Actions](https://docs.github.com/en/free-pro-team@late
 
 The workflow definition file is located at 
 [.github/workflows/ci.yml](https://github.com/party-pantry/pantry-party/blob/main/.github/workflows/ci.yml).
+
+
+<img src="images/CI.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 <br>
 
