@@ -17,6 +17,8 @@ layout: default
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
   <!-- * [Milestone 3](#milestone-3) -->
 - [Acceptance Testing](#acceptance-testing)
+* [Developer Guide](#developer-guide)
+  * [Continuous Integration](#continuous-integration)
 - [Team Contract](#team-contract)
 - [Team Members](#team-members)
 
@@ -101,8 +103,16 @@ Milestone 2 was managed using [Party Pantry GitHub Project Board M2](https://git
 
 <img src="images/M2-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
+
+### Milestone 3: TBD
+
+The goal of Milestone 3 was to focus on cleaning up the code base, updating UI format, and container ownership transfer. We also focused on implementing the payment portal and payment management. QR code scanning was refined for both the vendor and admin users. 
+
+Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://github.com/orgs/party-pantry/projects/5/views/2)
+
+<!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
+
 <!-- 
-### Milestone 3: 
 ### Milestone 4: 
 ### Milestone 5: 
 ### Milestone 6: 
@@ -118,6 +128,20 @@ The following are screenshots of our basic acceptance testing for Pantry Pantry.
 <img src="images/acc-tests/test-3.png" alt="" >
 <img src="images/acc-tests/test-4.png" alt="" >
 <img src="images/acc-tests/test-5.png" alt="" >
+
+
+## Developer Guide
+
+### Continuous Integration
+
+[![ci-pantry-party](https://github.com/party-pantry/pantry-party/actions/workflows/ci.yml/badge.svg)](https://github.com/party-pantry/pantry-party/actions/workflows/ci.yml)
+
+Party Pantry uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and Playwright tests each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/party-pantry/pantry-party/actions](https://github.com/party-pantry/pantry-party/actions).
+
+The workflow definition file is located at 
+[.github/workflows/ci.yml](https://github.com/party-pantry/pantry-party/blob/main/.github/workflows/ci.yml).
+
+<br>
 
 
 ## Team Contract
@@ -181,7 +205,7 @@ The fields labeled **PK** (Email for Accounts) indicate that this is a unique va
 <img src="doc/sustainer-flow-chart.png" alt="" style="padding-top: 5px; padding-bottom: 5px"> -->
 
 
-<!-- ## Developer Guide
+<!-- 
 
 ### Deployment
 
@@ -191,16 +215,6 @@ The following section provides information of interest to Meteor developers wish
 
 <br>
 
-### Continuous Integration
-
-[![ci-sustainer](https://github.com/sus-tainer/sustainer/actions/workflows/ci.yml/badge.svg)](https://github.com/sus-tainer/sustainer/actions/workflows/ci.yml)
-
-Sustainer uses [GitHub Actions](https://docs.github.com/en/free-pro-team@latest/actions) to automatically run ESLint and TestCafe each time a commit is made to the default branch.  You can see the results of all recent "workflows" at [https://github.com/sus-tainer/sustainer/actions](https://github.com/sus-tainer/sustainer/actions).
-
-The workflow definition file is quite simple and is located at
-[.github/workflows/ci.yml](https://github.com/sus-tainer/sustainer/blob/main/.github/workflows/ci.yml).
-
-<br>
 
 ### Installation
 
@@ -229,13 +243,7 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 
 <!-- 
 
-### Milestone 3: App Cleanup
 
-The goal of Milestone 3 was to focus on cleaning up the code base, updating UI format, and container ownership transfer. We also focused on implementing the payment portal and payment management. QR code scanning was refined for both the vendor and admin users. 
-
-Milestone 3 was managed using [Sustainer GitHub Project Board M3](https://github.com/orgs/sus-tainer/projects/4/views/2)
-
-<img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 -->
 
