@@ -15,7 +15,8 @@ layout: default
 * [Development History](#development-history)
   * [Milestone 1](#milestone-1-identifying-basic-user-needs-user-stories--mockup-page-development)
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
-  <!-- * [Milestone 3](#milestone-3) -->
+  * [Milestone 3](#milestone-3-improving-functionality-project-organization-and-acceptance-testing)
+  <!-- * [Milestone 4](#milestone-4) -->
 - [Acceptance Testing](#acceptance-testing)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
@@ -46,41 +47,44 @@ This section provides a walkthrough of the Party Pantry web app including its us
 
 Here is the landing page of our Party Pantry app!
 
-<img src="images/M1/M1-Landing1.png" alt="signup page" width="800">
-<img src="images/M1/M1-Landing2.png" alt="signup page" width="800">
+<img src="images/M2/landing.png" alt="signup page" width="800">
+<img src="images/M2/landing-features.png" alt="signup page" width="800">
 
 ### Sign up Page
 
 Here you can sign up and create an account to start using Party Pantry!
 
-<img src="images/M1/M1-Signup.png" alt="signup page" width="800">
+<img src="images/M2/sign-up.png" alt="signup page" width="800">
 
 ### Sign in Page
 
 Here you can sign in to your Party Pantry account.
 
-<img src="images/M1/M1-Signin.png" alt="signup page" width="800">
+<img src="images/M2/sign-in.png" alt="signup page" width="800">
 
 ### 'My Kitchen' Page
 
 Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where you can see an overview of your kitchen - you will see all of your storage spaces and items.
 
-<img src="images/M1/M1-MyKitchen1.png" alt="signup page" width="800">
+<img src="images/M2/my-kitchen-1.png" alt="signup page" width="800">
 
-<img src="images/M1/M1-MyKitchen2.png" alt="signup page" width="800">
+<img src="images/M2/my-kitchen-2.png" alt="signup page" width="800">
 
 
 ### Shopping List
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/M1/M1-ShoppingList.png" alt="signup page" width="800">
+<img src="images/M2/shopping-list-1.png" alt="signup page" width="800">
+<img src="images/M2/shopping-list-2.png" alt="signup page" width="800">
 
 ### Recipes Page
 
 This page shows all of the possible recipes you can make with the ingredients you currently have in your pantry. Any ingredients that are missing to make the recipe can be added to your shopping list in the "Shopping List" page. We are planning to add functionality to add in your own custom recipes.
 
-<img src="images/M1/M1-Recipes.png" alt="signup page" width="800">
+<img src="images/M2/recipes-1.png" alt="signup page" width="800">
+
+<img src="images/M2/recipes-2.png" alt="signup page" width="800">
 
 
 ## Development History
@@ -97,18 +101,20 @@ Milestone 1 was managed using [Party Pantry GitHub Project Board M1](https://git
 
 ### Milestone 2: Basic Skeleton of All Pages, Finalize Database Model, User Authentication
 
-The goal of Milestone 2 is to create all the basic components of the app. For backend, this included implementing all the relational databases properly and ensuring that functionalities for adding and editing storage spaces/ ingredients work properly. For frontend, we will focus on creating simple layouts for all the webpages and check that all web pages and nav links in the menu bar navigate correctly based on an authenticated user.
+The goal of Milestone 2 was to create all the basic components of the app. For backend, this included implementing all the relational databases properly and ensuring that functionalities for adding and editing storage spaces/ ingredients work properly. For frontend, we will focus on creating simple layouts for all the webpages and check that all web pages and nav links in the menu bar navigate correctly based on an authenticated user.
 
 Milestone 2 was managed using [Party Pantry GitHub Project Board M2](https://github.com/orgs/party-pantry/projects/5/views/2)
 
-<img src="images/M2/board/M2-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M2/board/M2-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 
-### Milestone 3: TBD
+### Milestone 3: Improving Functionality, Project Organization, and Acceptance Testing
 
-The goal of Milestone 3 was to focus on cleaning up the code base, updating UI format, and container ownership transfer. We also focused on implementing the payment portal and payment management. QR code scanning was refined for both the vendor and admin users. 
+The goal of Milestone 3 is to have more functionality and user interactivity with forms and searching features for the My-Kitchen page. Our team is aiming to try to incorporate all data into our database for the Shopping-List and Recipes pages. We will also be continuing with acceptance tests for each of our pages. 
 
 Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://github.com/orgs/party-pantry/projects/11/views/2)
+
+<img src="images/M2/board/M2-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 <!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
 
@@ -209,6 +215,10 @@ The fields labeled **PK** (Email for Accounts) indicate that this is a unique va
 
 
 <!-- 
+
+### Milestone 3
+
+The goal of Milestone 3 is to focus on cleaning up the code base, updating UI format, and container ownership transfer. We also focused on implementing the payment portal and payment management. QR code scanning was refined for both the vendor and admin users. 
 
 ### Deployment
 
