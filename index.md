@@ -123,7 +123,7 @@ Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://git
 ### Milestone 5: 
 ### Milestone 6: 
 ### Milestone 7: 
-### Milestone 8:  -->
+### Milestone 8: testing  -->
 
 ## Acceptance Testing
 
