@@ -114,7 +114,7 @@ The goal of Milestone 3 is to have more functionality and user interactivity wit
 
 Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://github.com/orgs/party-pantry/projects/11/views/2)
 
-<img src="images/M2/board/M2-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M3/board/M3-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 <!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
 
