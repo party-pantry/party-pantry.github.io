@@ -16,7 +16,8 @@ layout: default
   * [Milestone 1](#milestone-1-identifying-basic-user-needs-user-stories--mockup-page-development)
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
   * [Milestone 3](#milestone-3-improving-functionality-project-organization-and-acceptance-testing)
-  <!-- * [Milestone 4](#milestone-4) -->
+  * [Milestone 4](#milestone-4-new-features-additional-interactivity-refining-ui-design)
+  <!-- * [Milestone 5](#milestone-5) -->
 - [Acceptance Testing](#acceptance-testing)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
@@ -110,9 +111,17 @@ Milestone 2 was managed using [Party Pantry GitHub Project Board M2](https://git
 
 ### Milestone 3: Improving Functionality, Project Organization, and Acceptance Testing
 
-The goal of Milestone 3 is to have more functionality and user interactivity with forms and searching features for the My-Kitchen page. Our team is aiming to try to incorporate all data into our database for the Shopping-List and Recipes pages. We will also be continuing with acceptance tests for each of our pages. 
+The goal of Milestone 3 was to have more functionality and user interactivity with forms and searching features for the My-Kitchen page. Our team is aiming to try to incorporate all data into our database for the Shopping-List and Recipes pages. We will also be continuing with acceptance tests for each of our pages. 
 
 Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://github.com/orgs/party-pantry/projects/11/views/2)
+
+<img src="images/M3/board/M3-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
+### Milestone 4: New Features, Additional Interactivity, Refining UI Design
+
+The goal of Milestone 4 is to add more functionality and user interactivity to our app. This includes refining some of the UI design and ensuring that all functional options work with the database schemas(searching, sorting, filtering). Our team will also be adding new pages, such as an individual Recipe page (Start Cooking guide for a recipe), a Home Dashboard, a Location Map, and a Home Manager page. We will also be continuing with acceptance tests for each of our pages and aim to implement at least 6 user stories within our application.
+
+Milestone 4 was managed using [Party Pantry GitHub Project Board M4](https://github.com/orgs/party-pantry/projects/13/views/2)
 
 <img src="images/M3/board/M3-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
