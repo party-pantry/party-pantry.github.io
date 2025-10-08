@@ -48,45 +48,55 @@ This section provides a walkthrough of the Party Pantry web app including its us
 
 Here is the landing page of our Party Pantry app!
 
-<img src="images/M2/landing.png" alt="signup page" width="800">
-<img src="images/M2/landing-features.png" alt="signup page" width="800">
+<img src="images/M3/landing.png" alt="signup page" width="800">
+<img src="images/M3/landing-features.png" alt="signup page" width="800">
 
 ### Sign up Page
 
 Here you can sign up and create an account to start using Party Pantry!
 
-<img src="images/M2/sign-up.png" alt="signup page" width="800">
+<img src="images/M3/sign-up.png" alt="signup page" width="800">
 
 ### Sign in Page
 
 Here you can sign in to your Party Pantry account.
 
-<img src="images/M2/sign-in.png" alt="signup page" width="800">
+<img src="images/M3/sign-in.png" alt="signup page" width="800">
 
 ### 'My Kitchen' Page
 
 Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where you can see an overview of your kitchen - you will see all of your storage spaces and items.
 
-<img src="images/M2/my-kitchen-1.png" alt="signup page" width="800">
+<img src="images/M3/my-kitchen-1.png" alt="signup page" width="800">
 
-<img src="images/M2/my-kitchen-2.png" alt="signup page" width="800">
+<img src="images/M3/my-kitchen-2.png" alt="signup page" width="800">
+<img src="images/M3/my-kitchen-3.png" alt="signup page" width="800">
+<img src="images/M3/my-kitchen-4.png" alt="signup page" width="800">
+<img src="images/M3/my-kitchen-5.png" alt="signup page" width="800">
 
 
 ### Shopping List
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/M2/shopping-list-1.png" alt="signup page" width="800">
-<img src="images/M2/shopping-list-2.png" alt="signup page" width="800">
+<img src="images/M3/shopping-list-1.png" alt="signup page" width="800">
+<img src="images/M3/shopping-list-2.png" alt="signup page" width="800">
 
 ### Recipes Page
 
 This page shows all of the possible recipes you can make with the ingredients you currently have in your pantry. Any ingredients that are missing to make the recipe can be added to your shopping list in the "Shopping List" page. We are planning to add functionality to add in your own custom recipes.
 
-<img src="images/M2/recipes-1.png" alt="signup page" width="800">
+<img src="images/M3/recipes-1.png" alt="signup page" width="800">
 
-<img src="images/M2/recipes-2.png" alt="signup page" width="800">
+<img src="images/M3/recipes-2.png" alt="signup page" width="800">
 
+### User Settings and Logout Popups
+
+A user can change their password and logout from their profile with these pop-up windows.
+
+<img src="images/M3/user-settings.png" alt="signup page" width="800">
+
+<img src="images/M3/logout.png" alt="signup page" width="800">
 
 ## Development History
 
@@ -115,7 +125,7 @@ The goal of Milestone 3 was to have more functionality and user interactivity wi
 
 Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://github.com/orgs/party-pantry/projects/11/views/2)
 
-<img src="images/M3/board/M3-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M3/board/M3-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 ### Milestone 4: New Features, Additional Interactivity, Refining UI Design
 
@@ -123,7 +133,7 @@ The goal of Milestone 4 is to add more functionality and user interactivity to o
 
 Milestone 4 was managed using [Party Pantry GitHub Project Board M4](https://github.com/orgs/party-pantry/projects/13/views/2)
 
-<img src="images/M3/board/M3-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M4/board/M4-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 <!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
 
