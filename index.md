@@ -107,7 +107,7 @@ This page shows a checklist of the ingredients for a recipe and a step-by-step i
 
 ### Locations Page
 
-This page shows a Google Maps view of the user's current location and nearby grocery stores/markets where they can shop for items on their shopping list. The map can be filtered to stores and homes (i.e. locations containing pantries) to show only those locations.
+This page shows a Google Maps view of the user's current location and nearby grocery stores/markets where they can shop for items on their shopping list. The map can be filtered to stores and homes (i.e. locations containing pantries) to  show only those locations.
 
 <img src="images/M4/locations-1.png" alt="locations page" width="800">
 
