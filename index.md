@@ -49,26 +49,26 @@ This section provides a walkthrough of the Party Pantry web app including its us
 
 Here is the landing page of our Party Pantry app!
 
-<img src="images/M3/landing.png" alt="signup page" width="800">
-<img src="images/M3/landing-features.png" alt="signup page" width="800">
+<img src="images/M4/landing.png" alt="signup page" width="800">
+<img src="images/M4/landing-features.png" alt="signup page" width="800">
 
 ### Sign up Page
 
 Here you can sign up and create an account to start using Party Pantry!
 
-<img src="images/M3/sign-up.png" alt="signup page" width="800">
+<img src="images/M4/sign-up.png" alt="signup page" width="800">
 
 ### Sign in Page
 
 Here you can sign in to your Party Pantry account.
 
-<img src="images/M3/sign-in.png" alt="signup page" width="800">
+<img src="images/M4/sign-in.png" alt="signup page" width="800">
 
 ### 'My Kitchen' Page
 
 Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where you can see an overview of your kitchen - you will see all of your storage spaces and items.
 
-<img src="images/M3/my-kitchen-1.png" alt="signup page" width="800">
+<img src="images/M4/my-kitchen-1.png" alt="signup page" width="800">
 
 <img src="images/M3/my-kitchen-2.png" alt="signup page" width="800">
 <img src="images/M3/my-kitchen-3.png" alt="signup page" width="800">
@@ -80,24 +80,44 @@ Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/M3/shopping-list-1.png" alt="signup page" width="800">
-<img src="images/M3/shopping-list-2.png" alt="signup page" width="800">
+<img src="images/M4/shopping-list-1.png" alt="signup page" width="800">
+<img src="images/M4/shopping-list-2.png" alt="signup page" width="800">
 
 ### Recipes Page
 
 This page shows all of the possible recipes you can make with the ingredients you currently have in your pantry. Any ingredients that are missing to make the recipe can be added to your shopping list in the "Shopping List" page. We are planning to add functionality to add in your own custom recipes.
 
-<img src="images/M3/recipes-1.png" alt="signup page" width="800">
+<img src="images/M4/recipes-1.png" alt="signup page" width="800">
 
-<img src="images/M3/recipes-2.png" alt="signup page" width="800">
+<img src="images/M4/recipes-2.png" alt="signup page" width="800">
+
+### Recipes Page
+
+This page shows all of the information for a specific receipe when a user clicks on "View Details" on the Recipes page. This includes ingredients needed, instructions, and nutrition facts. Users can also add missing ingredients to their shopping list from this page.
+
+<img src="images/M4/specific-recipe-1.png" alt="signup page" width="800">
+
+### Start Cooking Page
+
+This page shows a checklist of the ingredients for a recipe and a step-by-step instructions guide to make the recipe. Users can check off ingredients and steps as they go. There is also a timer feature for the user for steps that require waiting or specific cook times.
+
+<img src="images/M4/start-cooking-1.png" alt="start-cooking page" width="800">
+
+<img src="images/M4/start-cooking-2.png" alt="start-cooking page" width="800">
+
+### Locations Page
+
+This page shows a Google Maps view of the user's current location and nearby grocery stores/markets where they can shop for items on their shopping list. The map can be filtered to stores and homes (i.e. locations containing pantries) to show only those locations.
+
+<img src="images/M4/locations-1.png" alt="locations page" width="800">
 
 ### User Settings and Logout Popups
 
 A user can change their password and logout from their profile with these pop-up windows.
 
-<img src="images/M3/user-settings.png" alt="signup page" width="800">
+<img src="images/M4/user-settings-1.png" alt="signup page" width="800">
 
-<img src="images/M3/logout.png" alt="signup page" width="800">
+<img src="images/M4/sign-out.png" alt="signup page" width="800">
 
 ## Development History
 
