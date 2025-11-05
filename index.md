@@ -187,7 +187,7 @@ The goal of Milestone 6 is to add more functionality to our new pages, mainly in
 
 Milestone 6 was managed using [Party Pantry GitHub Project Board M6](https://github.com/orgs/party-pantry/projects/15/views/1)
 
-<img src="images/M5/board/M5-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M6/board/M6-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 <!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
 
