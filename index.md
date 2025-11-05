@@ -17,8 +17,9 @@ layout: default
   * [Milestone 2](#milestone-2-basic-skeleton-of-all-pages-finalize-database-model-user-authentication)
   * [Milestone 3](#milestone-3-improving-functionality-project-organization-and-acceptance-testing)
   * [Milestone 4](#milestone-4-new-features-additional-interactivity-refining-ui-design)
-  * [Milestone 5](#milestone-5-functionality-for-new-pages-and-features)
-  <!-- * [Milestone 6](#milestone-6) -->
+  * [Milestone 5](#milestone-5-ui-touchups-and-features-for-large-datasets)
+  * [Milestone 6](#milestone-6-functionality-for-new-pages-and-features)
+  <!-- * [Milestone 7](#milestone-7) -->
 - [Acceptance Testing](#acceptance-testing)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
@@ -150,17 +151,25 @@ Milestone 3 was managed using [Party Pantry GitHub Project Board M3](https://git
 
 ### Milestone 4: New Features, Additional Interactivity, Refining UI Design
 
-The goal of Milestone 4 was to add more functionality and user interactivity to our app. This included refining some of the UI design and ensuring that all functional options work with the database schemas(searching, sorting, filtering). Our team also be added new pages, such as an individual Recipe page (Start Cooking guide for a recipe), a Market Locator Map page, and a Receipt Scanner page (currently WIP). We continued with acceptance tests for each of our pages and implemented around 6 user stories within our application.
+The goal of Milestone 4 was to add more functionality and user interactivity to our app. This included refining some of the UI design and ensuring that all functional options work with the database schemas(searching, sorting, filtering). Our team also added new pages, such as an individual Recipe page (Start Cooking guide for a recipe), a Market Locator Map page, and a Receipt Scanner page (currently WIP). We continued with acceptance tests for each of our pages and implemented around 6 user stories within our application.
 
 Milestone 4 was managed using [Party Pantry GitHub Project Board M4](https://github.com/orgs/party-pantry/projects/13/views/2)
 
 <img src="images/M4/board/M4-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
-### Milestone 5: Functionality for New Pages and Features
+### Milestone 5: UI Touchups and Features for Large Datasets
 
-The goal of Milestone 5 is to add more functionality to our new pages, mainly involving the Shopping Market Locator and Receipt Scanner pages. Our team will also be considering the new "look and feel" of our app to compensate for our SideBar style navigation. We also plan to implement a Home Dashboard for a user and continue with acceptance tests for each of our pages.
+The goal of Milestone 5 was to integrate some UI adjustments for the long term goal of scaling and expanding the scope of our app. This consisted of adding more default test data to a larger scale and allowing the possibility of having multiple users sharing a location or storage space. Our team considered the new "look and feel" of our app to compensate for our SideBar style navigation. In terms of development, our team enhanced sorting features, integrated collapsable storage spaces, and added pagination to a user's inventory. We also added a "review" feature for a recipe and continued with acceptance tests for each of our pages.
 
 Milestone 5 was managed using [Party Pantry GitHub Project Board M5](https://github.com/orgs/party-pantry/projects/14/views/1)
+
+<img src="images/M5/board/M5-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
+### Milestone 6: Functionality for New Pages and Features
+
+The goal of Milestone 6 is to add more functionality to our new pages, mainly involving the Shopping Market Locator, Stores, and Receipt Scanner pages. We plan to implement a Home Dashboard for a user and continue with acceptance tests for each of our pages. Furthermore, our team would like to expand toggable views (between card and lists) for the Shopping List, Recipes and My Kitchen inventory pages. We also aim to have at least 9 user stories implemented within our application by the end of this milestone.
+
+Milestone 6 was managed using [Party Pantry GitHub Project Board M6](https://github.com/orgs/party-pantry/projects/15/views/1)
 
 <img src="images/M5/board/M5-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
@@ -168,8 +177,7 @@ Milestone 5 was managed using [Party Pantry GitHub Project Board M5](https://git
 
 <!-- 
 ### Milestone 6: 
-### Milestone 7: 
-### Milestone 8: testing  -->
+### Milestone 7:   -->
 
 ## Acceptance Testing
 
