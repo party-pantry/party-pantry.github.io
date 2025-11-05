@@ -50,53 +50,69 @@ This section provides a walkthrough of the Party Pantry web app including its us
 
 Here is the landing page of our Party Pantry app!
 
-<img src="images/M4/landing.png" alt="signup page" width="800">
-<img src="images/M4/landing-features.png" alt="signup page" width="800">
+<img src="images/M5/landing.png" alt="signup page" width="800">
+<img src="images/M5/landing-features.png" alt="signup page" width="800">
+
+Here is what the landing page looks like when a user signs in:
+
+<img src="images/M5/landing-user-home.png" alt="signup page" width="800">
 
 ### Sign up Page
 
 Here you can sign up and create an account to start using Party Pantry!
 
-<img src="images/M4/sign-up.png" alt="signup page" width="800">
+<img src="images/M5/sign-up.png" alt="signup page" width="800">
 
 ### Sign in Page
 
 Here you can sign in to your Party Pantry account.
 
-<img src="images/M4/sign-in.png" alt="signup page" width="800">
+<img src="images/M5/sign-in.png" alt="signup page" width="800">
 
 ### 'My Kitchen' Page
 
 Once you sign up or sign in, you will be brought to the 'My Kitchen' page, where you can see an overview of your kitchen - you will see all of your storage spaces and items.
 
-<img src="images/M4/my-kitchen-1.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-1.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-2.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-3.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-4.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-5.png" alt="signup page" width="800">
+<img src="images/M5/my-kitchen-6.png" alt="signup page" width="800">
 
-<img src="images/M3/my-kitchen-2.png" alt="signup page" width="800">
-<img src="images/M3/my-kitchen-3.png" alt="signup page" width="800">
-<img src="images/M3/my-kitchen-4.png" alt="signup page" width="800">
-<img src="images/M3/my-kitchen-5.png" alt="signup page" width="800">
+### Scan Receipt Page
 
+Users can take a picture of their grocery receipt and have the items automatically added to their pantry inventory. The option to upload a picture of a grocery receipt is also available, enabling the user to mass add grocery items into their inventory space(s). This page shows the receipt that was scanned and the items that were detected from the receipt.
+
+<img src="images/M5/scan-receipt-1.png" alt="signup page" width="800">
 
 ### Shopping List
 
 Here you can see a generated shopping list - provided are all the items you are out of or running low on. You will also see a total amount of money that is predicted that you will have to spend if you buy all of the items on the shopping list.
 
-<img src="images/M4/shopping-list-1.png" alt="signup page" width="800">
-<img src="images/M4/shopping-list-2.png" alt="signup page" width="800">
+<img src="images/M5/shopping-list-1.png" alt="signup page" width="800">
+<img src="images/M5/shopping-list-2.png" alt="signup page" width="800">
+<img src="images/M5/shopping-list-3.png" alt="signup page" width="800">
+<img src="images/M5/shopping-list-4.png" alt="signup page" width="800">
 
 ### Recipes Page
 
 This page shows all of the possible recipes you can make with the ingredients you currently have in your pantry. Any ingredients that are missing to make the recipe can be added to your shopping list in the "Shopping List" page. We are planning to add functionality to add in your own custom recipes.
 
-<img src="images/M4/recipes-1.png" alt="signup page" width="800">
-
-<img src="images/M4/recipes-2.png" alt="signup page" width="800">
+<img src="images/M5/recipes-1.png" alt="signup page" width="800">
+<img src="images/M5/recipes-2.png" alt="signup page" width="800">
+<img src="images/M5/recipes-3.png" alt="signup page" width="800">
+<img src="images/M5/recipes-4.png" alt="signup page" width="800">
 
 ### Recipes Page
 
 This page shows all of the information for a specific receipe when a user clicks on "View Details" on the Recipes page. This includes ingredients needed, instructions, and nutrition facts. Users can also add missing ingredients to their shopping list from this page.
 
 <img src="images/M4/specific-recipe-1.png" alt="signup page" width="800">
+
+You can also write and leave reviews for recipes on this page! This will allow users to share their thoughts and experiences with others who may want to try the recipe.
+
+<img src="images/M5/recipe-review.png" alt="signup page" width="800">
 
 ### Start Cooking Page
 
@@ -116,9 +132,9 @@ This page shows a Google Maps view of the user's current location and nearby gro
 
 A user can change their password and logout from their profile with these pop-up windows.
 
-<img src="images/M4/user-settings-1.png" alt="signup page" width="800">
+<img src="images/M5/user-settings-1.png" alt="signup page" width="800">
 
-<img src="images/M4/sign-out.png" alt="signup page" width="800">
+<img src="images/M5/sign-out.png" alt="signup page" width="800">
 
 ## Development History
 
@@ -163,7 +179,7 @@ The goal of Milestone 5 was to integrate some UI adjustments for the long term g
 
 Milestone 5 was managed using [Party Pantry GitHub Project Board M5](https://github.com/orgs/party-pantry/projects/14/views/1)
 
-<img src="images/M5/board/M5-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+<img src="images/M5/board/M5-tasks-updated.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
 ### Milestone 6: Functionality for New Pages and Features
 
