@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<!-- -->
-
 # Party Pantry
 
 [View our organization](https://github.com/party-pantry)
@@ -19,7 +17,7 @@ layout: default
   * [Milestone 4](#milestone-4-new-features-additional-interactivity-refining-ui-design)
   * [Milestone 5](#milestone-5-ui-touchups-and-features-for-large-datasets)
   * [Milestone 6](#milestone-6-functionality-for-new-pages-and-features)
-  <!-- * [Milestone 7](#milestone-7) -->
+  * [Milestone 7](#milestone-7-ui-enhancements-and-refining-all-functionalities)
 - [Acceptance Testing](#acceptance-testing)
 * [Developer Guide](#developer-guide)
   * [Continuous Integration](#continuous-integration)
@@ -183,17 +181,24 @@ Milestone 5 was managed using [Party Pantry GitHub Project Board M5](https://git
 
 ### Milestone 6: Functionality for New Pages and Features
 
-The goal of Milestone 6 is to add more functionality to our new pages, mainly involving the Shopping Market Locator, Stores, and Receipt Scanner pages. We plan to implement a Home Dashboard for a user and continue with acceptance tests for each of our pages. Furthermore, our team would like to expand toggable views (between card and lists) for the Shopping List, Recipes and My Kitchen inventory pages. We also aim to have at least 9 user stories implemented within our application by the end of this milestone.
+The goal of Milestone 6 was to focus on functionality of our new pages, mainly involving the Shopping Market Locator, Stores, and Receipt Scanner pages. We added some functionality to add missing ingredients from a specific recipe into a user's shopping list. Our team also prioritized UX enhancement through user interactivity (clcikable animations of lists and pop-up recommended sections). We also implemented around 9 user stories within our application.
 
 Milestone 6 was managed using [Party Pantry GitHub Project Board M6](https://github.com/orgs/party-pantry/projects/15/views/1)
 
 <img src="images/M6/board/M6-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
 
-<!-- <img src="doc/M3.png" alt="" style="padding-top: 5px; padding-bottom: 50px"> -->
+### Milestone 7: UI Enhancements and Refining all Functionalities
 
-<!-- 
-### Milestone 6: 
-### Milestone 7:   -->
+The goal of Milestone 7 is to refine all functionalities to our  Shopping Market Locator and Receipt Scanner pages. We plan to implement a Home Dashboard for a user and have acceptance tests for each of our pages. Furthermore, our team would like to expand toggable views (between card and lists) for the Shopping List, Recipes and My Kitchen inventory pages. At the end of this milestone, our app should have the following:
+- Refined UI/UX for all pages for a polished look of our app
+- Full functionality across all pages and cross-functionality working with the database
+- Complete acceptance testing
+
+
+Milestone 7 was managed using [Party Pantry GitHub Project Board M7](https://github.com/orgs/party-pantry/projects/17/views/1)
+
+<img src="images/M6/board/M6-tasks.png" alt="" style="padding-top: 5px; padding-bottom: 50px">
+
 
 ## Acceptance Testing
 
